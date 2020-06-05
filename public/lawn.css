@@ -1,0 +1,132 @@
+/* ///navbar/////// */ */
+.kaam{
+    margin-right:40px;
+}
+.ajeeb,.pori,.wah,.alif{
+    margin-left:10px;
+}
+.space{
+    background-color:grey;
+    height:140px;
+    width:1368px;
+}
+/* //////////////////////////////////// */
+.logo{
+    background-color:black;
+    border-radius:50%;
+    margin-left: 45px;
+    margin-top:10px;
+position: relative;
+bottom:5px;
+border: 1px solid;
+
+}
+.fa-user,.fa-shopping-cart{
+    font-size:32px !important;
+    color:white;
+    cursor: pointer;
+   margin-left:8px;
+    
+}
+    
+    .navbar-brand,.logo{
+        margin-right: 15px;
+        
+        
+    }
+
+    /* //////////////cards///////////////////// */
+
+.card-img-top{
+    height:240px!important;
+    border:1px solid;
+}
+.woah{
+    margin-top:40px;
+}
+
+.card-body{
+
+
+background-color:rgb(52, 34, 189);
+
+}
+
+.card-title{
+color:white;
+
+}
+.btn{
+    float:right;
+   background-color:red!important;
+
+}
+.btn:hover{
+    color:yellow;
+}
+  
+   h1{
+       color:yellow;
+       padding-top:07px;
+       font-weight: bolder;
+       
+       
+
+   }
+   .classic{
+       background-color:rgb(52, 34, 189);
+       height:70px;
+       width:200px;
+   }
+   .classica{
+    background-color:rgb(52, 34, 189);
+    height:70px;
+    width:220px;
+   }
+
+
+   /* //////////////////end////////////////////////////////////////// */
+
+.kiunke{
+    margin-right:10px;
+    padding:0px 0px;
+    color: white
+    
+}
+.poni{
+    color: white;
+}
+.poni:hover{
+    color: red;
+}
+.ring{
+    margin-top: 18px;
+    color:white
+}
+.insti{
+    
+    height:80px;
+    margin-top:10px;
+    width:60px;
+    display: inline-block;
+  
+    
+}
+footer{
+    background-color:#444;
+    margin-top:180px;
+}
+.farg,.ali,.mahad,.jonas,.mati{
+    color:white;
+}
+.love{
+    color:white;
+}
+.clinical{
+    color:white;
+}
+.loves{
+    font-weight: bold;
+    color:white;
+}
+

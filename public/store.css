@@ -1,0 +1,165 @@
+/* ///////////store//////////// */
+/* .porin{margin:15px 15px 20px 55px;
+height:250px;
+width:250px;
+} */
+
+/* .shabash{
+    height:380px;
+    
+}
+.card-body{
+    background-color:brown;
+    border: 2px solid;
+    height: 230px;
+}
+
+.card-text{
+    margin:5px;
+    padding:20px;
+    
+    color:white;
+    
+    
+}
+
+
+.ikk{
+
+    color:red!important;
+    background-color:black!important;
+    font-weight: bold!important;
+  
+} */
+/* ///navbar////////////// */
+a{
+    margin-right: 15px;
+    
+    
+}
+.kaam{
+    margin-right:40px;
+}
+.ajeeb,.pori,.wah,.alif{
+    margin-left:10px;
+}
+.space{
+    background-color:grey;
+    height:140px;
+    width:1368px;
+}
+.logo{
+    background-color:black;
+    border-radius:50%;
+    margin-left: 45px;
+    margin-top:10px;
+position: relative;
+bottom:5px;
+border: 1px solid;
+
+}
+.fa-user,.fa-shopping-cart{
+    font-size:32px !important;
+    color:white;
+    cursor: pointer;
+   margin-left:8px;
+    
+}
+/* /////footer///////////// */
+/* //////////////////end////////////////////////////////////////// */
+
+.kiunke{
+    margin-right:10px;
+    padding:0px 0px;
+    color: white;
+    
+}
+.poni{
+    color: white;
+}
+.poni:hover{
+    color: red;
+}
+.ring{
+    margin-top: 18px;
+    color:white;
+}
+.insti{
+    
+    height:80px;
+    margin-top:10px;
+    width:60px;
+    display: inline-block;
+  
+    
+}
+footer{
+    background-color:#444;
+    margin-top:100px;
+    width:100%!important;
+}
+.farg,.ali,.mahad,.jonas,.mati{
+    color:white;
+}
+.love{
+    color:white;
+}
+.clinical{
+    color:white;
+}
+.loves{
+    font-weight: bold;
+    color:white
+}
+
+
+
+
+/* //////////////card////////////////// */
+
+
+.card-img-top{
+    height:330px!important;
+    border: 1px solid;
+}
+.poru{
+    margin-top:40px;
+    
+}
+.card{
+    width:300px;
+}
+
+.card-body{
+    background-color:brown;
+    border: 1px solid;
+    height: 230px;
+}
+
+.ikk{
+
+    color:red!important;
+    background-color:black!important;
+    font-weight: bold!important;
+  
+}
+.card-text{
+    margin:5px;
+    padding:20px;
+    
+    color:white;
+    
+    
+}
+.card-title{
+    padding-top:6px;
+}
+
+
+
+
+
+
+
+
+
